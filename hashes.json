@@ -1,0 +1,21 @@
+{
+  "version": "0.102.0-9",
+  "sources": {
+    "x86_64-linux": {
+      "target": "x86_64-unknown-linux-gnu",
+      "hash": "sha256-3EVTXaSDD0FpSf33Oby2Ve95m9IgbngTdXJhR3+WuyA="
+    },
+    "aarch64-linux": {
+      "target": "aarch64-unknown-linux-gnu",
+      "hash": "sha256-1SEHDRFNA9SD9Ttow/uIReRXyRd2oWTOve55m4h/ZwM="
+    },
+    "x86_64-darwin": {
+      "target": "x86_64-apple-darwin",
+      "hash": "sha256-TA6HsyWMXXapoPqJ9Ds3Nrn25QrbS66QR0chwK+nHlc="
+    },
+    "aarch64-darwin": {
+      "target": "aarch64-apple-darwin",
+      "hash": "sha256-amNx8siYi47illhnFFoD8EgYgccCwF+0KaX2fR4JmLs="
+    }
+  }
+}
